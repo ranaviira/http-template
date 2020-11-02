@@ -2,7 +2,7 @@ package com.epam.izh.rd.online.entity;
 
 /**
  * Покемон. Поля должны заполняться из JSON, который возвратит внешний REST-service
- * Для маппинка значений из массива stats рекомендуется использовать отдельный класс Stat и аннотацию @JsonCreator
+ * Для маппинга значений из массива stats рекомендуется использовать отдельный класс Stat и аннотацию @JsonCreator
  */
 public class Pokemon {
 
